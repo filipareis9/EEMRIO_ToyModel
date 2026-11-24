@@ -1,1 +1,1 @@
-IO Toy Model for Social Metabolism and Climate Change class at BOKU 2025
+Input-Output mini project for Plant-Based Transition policy testing in Austria 
